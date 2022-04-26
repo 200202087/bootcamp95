@@ -3,15 +3,17 @@ Bootcamp'teki 95. takım olarak repository alanımız.
 
 # **Takım İsmi**
 
-Takım X
+Takım bootcamp95
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Özge Aydın: Product Owner
+- Ferhat Arslan: Scrum Master
+- Rüveyda Sena Tatar: Team Member/Developer 
+- Şuayip Emre Sözen: Team Member/Developer
+- Şule Nur Köroğlu: Team Member/Developer
 
 ## Ürün İsmi
 
