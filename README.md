@@ -3,7 +3,7 @@ Bootcamp'teki 95. takım olarak repository alanımız.
 
 # **Takım İsmi**
 
-bootcamp95
+kamp95
 
 # Ürün İle İlgili Bilgiler
 
