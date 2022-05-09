@@ -44,11 +44,11 @@ bootcamp95
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır.
+- **Sprint Notları**: Bu sprint daha çok tasarım üzerine odaklanıldı ve çalışıldı.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 70 Puan
 
-- **Puan tamamlama mantığı**: 4 sprint'e bölündüğünde ilk sprint'in en azından 70 ile başlaması yeterli görüldü.
+- **Puan tamamlama mantığı**: 3 sprint'e bölündüğünde ilk sprint'in en azından 70 ile başlaması yeterli görüldü.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuzda ilk yapılması gereken görevler önem niteliğine göre sıralanmıştır. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde seçimler yapılmıştır.
 
