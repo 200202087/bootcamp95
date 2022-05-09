@@ -65,7 +65,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   ![Screenshot 1](https://github.com/200202087/bootcamp95/blob/main/EkranGoruntuleri/LandingPage.png?raw=true)
   ![Screenshot 2](https://github.com/200202087/bootcamp95/blob/main/EkranGoruntuleri/AnaSayfa.png?raw=true)
   ![Screenshot 3](https://github.com/200202087/bootcamp95/blob/main/EkranGoruntuleri/KitapIcerigi.png?raw=true)
-  ![Screenshot 4](https://github.com/200202087/bootcamp95/blob/main/EkranGoruntuleri/AramaKismi?raw=true)
+  ![Screenshot 4](https://github.com/200202087/bootcamp95/blob/main/EkranGoruntuleri/AramaKismi.png?raw=true)
   ![Screenshot 5](https://github.com/200202087/bootcamp95/blob/main/EkranGoruntuleri/ProfilResmineTiklayinca.png?raw=true)
 
 - **Sprint Review**: 
