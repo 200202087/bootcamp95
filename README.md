@@ -54,7 +54,7 @@ bootcamp95
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/200202087/bootcamp95/blob/9ab9930f18e9336346291f334aa6ca741676fa17/EkranGoruntuleri/daily%20scrum.pdf?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/200202087/bootcamp95/blob/9ab9930f18e9336346291f334aa6ca741676fa17/EkranGoruntuleri/daily%20scrum.pdf?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
