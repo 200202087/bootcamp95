@@ -3,40 +3,40 @@ Bootcamp'teki 95. takım olarak repository alanımız.
 
 # **Takım İsmi**
 
-Takım bootcamp95
+bootcamp95
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
 - Özge Aydın: Product Owner
-- Ferhat Arslan: Scrum Master
+- Ferhat Arslan: Scrum Master/Designer
 - Rüveyda Sena Tatar: Team Member/Developer 
 - Şuayip Emre Sözen: Team Member/Developer
 - Şule Nur Köroğlu: Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+--KitApp--
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- KitApp uygulaması içerisinde kitaplar barındıran ve kullanıcıların bu kitapları inceleyebildiği, yorum yapıp puan verebildiği ve diğer kullanıcıların
+- kitap hakkındaki yorumlarını görebildiği bir uygulamadır. Ayrıca insanlar telif hakkı sıkıntısı olmayan kitapları ister tek başına, ister davet linki
+- üzerinden arkadaşlarıyla beraber okuyabilmektedir.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Kitapları türüne göre ayırma
+- Kitapları özeti, yazarı ve yazım yılıyla beraber gösterme
+- Kitaplara gelen kullanıcı yorumlarını ve puanlarını gösterme
+- Telifsiz kitapların ister tek, ister beraber okunabilirliği sağlama.
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Kitap severler
+- Okuyucu yorumlarını merak edenler
+- 10 - 50 yaş arası kullanıcılar
 
 ## Product Backlog URL
 
@@ -68,12 +68,13 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Uygulama içi dizayna karar verilmiştir. Renk paletleri tekrar gözden geçirilecektir. Takım içi iletişim sıkıntısından dolayı uygulamada küçülmeye gidilip gidilmeyeceği tartışılacaktır.
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Takım içindeki iletişimin acilen güçlendirilmesi gerekmektedir.
+  - Tahmin puanlar tekrar konuşulup önem sırasına göre işe koyulacaktır.
+  - Haftalık toplantılar daha sık yapılacaktır.
+  - İş takibi daha sıkı hale gelecektir.
 
 -**Diğer Notlar**:
 - N/A
