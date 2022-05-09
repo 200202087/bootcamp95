@@ -21,9 +21,7 @@ bootcamp95
 
 ## Ürün Açıklaması
 
-- KitApp uygulaması içerisinde kitaplar barındıran ve kullanıcıların bu kitapları inceleyebildiği, yorum yapıp puan verebildiği ve diğer kullanıcıların
-- kitap hakkındaki yorumlarını görebildiği bir uygulamadır. Ayrıca insanlar telif hakkı sıkıntısı olmayan kitapları ister tek başına, ister davet linki
-- üzerinden arkadaşlarıyla beraber okuyabilmektedir.
+- KitApp uygulaması içerisinde kitaplar barındıran ve kullanıcıların bu kitapları inceleyebildiği, yorum yapıp puan verebildiği ve diğer kullanıcıların kitap hakkındaki yorumlarını görebildiği bir uygulamadır. Ayrıca insanlar telif hakkı sıkıntısı olmayan kitapları ister tek başına, ister davet linki üzerinden arkadaşlarıyla beraber okuyabilmektedir.
 
 ## Ürün Özellikleri
 
