@@ -38,7 +38,7 @@ bootcamp95
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Miro Backlog Board](https://miro.com/app/board/uXjVO6pEpoE=/?share_link_id=404485659413)
 
 ---
 
