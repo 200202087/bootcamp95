@@ -101,6 +101,8 @@ Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirk
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+
+
   ![Screenshot 1](https://github.com/200202087/bootcamp95/blob/3254259db58c9367d24b18c25ae4c0a721686ca5/sprint2/AnaSayfa.png?raw=true)
   ![Screenshot 2](https://github.com/200202087/bootcamp95/blob/3254259db58c9367d24b18c25ae4c0a721686ca5/sprint2/Sorular.png?raw=true)
 
