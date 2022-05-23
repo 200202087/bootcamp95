@@ -90,8 +90,8 @@ Alınan kararlar: Uygulama içi dizayna karar verilmiştir. Renk paletleri tekra
 - **Backlog düzeni ve Story seçimleri**: Backlog görevleri önem niteliğine göre sıralanıp takım arkadaşlarına atanmıştır. Tahmin edilen puanı geçmeyecek şekilde düzenlenmiştir.
 Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır. [Sprint 2 DailyScrum]
-(https://github.com/200202087/bootcamp95/blob/3254259db58c9367d24b18c25ae4c0a721686ca5/sprint2/daiilyscrum.pdf)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır. [Sprint 2 Daily Scrum Chats](https://github.com/200202087/bootcamp95/blob/3254259db58c9367d24b18c25ae4c0a721686ca5/sprint2/daiilyscrum.pdf?raw=true)
+
 
 
 - **Sprint board update**: Sprint board screenshotları: 
@@ -101,8 +101,8 @@ Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirk
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/200202087/bootcamp95/blob/3254259db58c9367d24b18c25ae4c0a721686ca5/sprint2/AnaSayfa.png)
-  ![Screenshot 2](https://github.com/200202087/bootcamp95/blob/3254259db58c9367d24b18c25ae4c0a721686ca5/sprint2/Sorular.png)
+  ![Screenshot 1](https://github.com/200202087/bootcamp95/blob/3254259db58c9367d24b18c25ae4c0a721686ca5/sprint2/AnaSayfa.png?raw=true)
+  ![Screenshot 2](https://github.com/200202087/bootcamp95/blob/3254259db58c9367d24b18c25ae4c0a721686ca5/sprint2/Sorular.png?raw=true)
 
 - **Sprint Review**: 
 Alınan kararlar: Bazı anlaşmazlıklar sonucu iki arkadaşımız aramızdan ayrılmış bulunmaktadır. Projeye devam edecek takım arkadaşlarıyla beraber küçültmeye gidilmiştir. Proje değişikliğine karar verilip uygulama değiştirilmiştir.
