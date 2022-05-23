@@ -12,29 +12,27 @@ kamp95
 - Özge Aydın: Product Owner
 - Ferhat Arslan: Scrum Master/Designer
 - Rüveyda Sena Tatar: Team Member/Developer 
-- Şuayip Emre Sözen: Team Member/Developer
-- Şule Nur Köroğlu: Team Member/Developer
+
 
 ## Ürün İsmi
 
---KitApp--
+--QuizzApp--
 
 ## Ürün Açıklaması
 
-- KitApp uygulaması içerisinde kitaplar barındıran ve kullanıcıların bu kitapları inceleyebildiği, yorum yapıp puan verebildiği ve diğer kullanıcıların kitap hakkındaki yorumlarını görebildiği bir uygulamadır. Ayrıca insanlar telif hakkı sıkıntısı olmayan kitapları ister tek başına, ister davet linki üzerinden arkadaşlarıyla beraber okuyabilmektedir.
+- QuizzApp çocuklar için çeşitli işlemleri yapabilecekleri ve akıllarında kalacak şekilde tasarlanmış bir uygulamadır.
 
 ## Ürün Özellikleri
-
-- Kitapları türüne göre ayırma
-- Kitapları özeti, yazarı ve yazım yılıyla beraber gösterme
-- Kitaplara gelen kullanıcı yorumlarını ve puanlarını gösterme
-- Telifsiz kitapların ister tek, ister beraber okunabilirliği sağlama.
+    -4 işlem sorularına göre düzenlenmiştir.
+    - Akılda kalıcı tasarımıyla çocukların ilgisini çekecek şekilde yapılmıştır.
+    -Eğitici ve Öğreticidir.
+    
+ 
 
 ## Hedef Kitle
 
-- Kitap severler
-- Okuyucu yorumlarını merak edenler
-- 10 - 50 yaş arası kullanıcılar
+- Çocuklar
+- 5-10 yaş arası 
 
 ## Product Backlog URL
 
@@ -85,9 +83,9 @@ Alınan kararlar: Uygulama içi dizayna karar verilmiştir. Renk paletleri tekra
 # Sprint 2
 Sprint Notları : Bu sprint proje değişikliğine gidilerek yeni proje kararı verildi. Yeni proje için ilk çalışmalar başlatıldı.
 
-Sprint içinde tamamlanması gereken tahmini puan :
+Sprint içinde tamamlanması gereken tahmini puan :130
 
-Puan tamamlama mantığı:
+Puan tamamlama mantığı: Belirlediğimiz puanın görevlere eşit oranda dağıtılmasına karar verildi.
 
 Bakclog düzeni ve story seçimleri : Backlog görevleri önem niteliğine göre sıralanıp takım arkadaşlarına atanmıştır. Tahmin edilen puanı geçmeyecek şekilde düzenlenmiştir.
 Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
