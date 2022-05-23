@@ -100,7 +100,12 @@ Sprint board update:
 
 Ürün Durumu :
 
+Sprint Review: 
+Alınan kararlar: Projeye devam edecek takım arkadaşlarıyla beraber küçültmeye gidilmiştir. Proje değişikliğine karar verilip uygulama değiştirilmiştir.
 
+Sprint Retrospective:
+Haftalık toplantılar daha sık yapılacaktır.
+İş takibi daha sıkı takip edilecektir.
 
 
 ---
