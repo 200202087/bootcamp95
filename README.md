@@ -83,6 +83,24 @@ Alınan kararlar: Uygulama içi dizayna karar verilmiştir. Renk paletleri tekra
 ---
 
 # Sprint 2
+Sprint Notları : Bu sprint proje değişikliğine gidilerek yeni proje kararı verildi. Yeni proje için ilk çalışmalar başlatıldı.
+
+Sprint içinde tamamlanması gereken tahmini puan :
+
+Puan tamamlama mantığı:
+
+Bakclog düzeni ve story seçimleri : Backlog görevleri önem niteliğine göre sıralanıp takım arkadaşlarına atanmıştır. Tahmin edilen puanı geçmeyecek şekilde düzenlenmiştir.
+Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+Daily scrum :Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır.
+
+
+Sprint board update:
+
+
+Ürün Durumu :
+
+
 
 
 ---
