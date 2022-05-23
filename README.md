@@ -81,27 +81,33 @@ Alınan kararlar: Uygulama içi dizayna karar verilmiştir. Renk paletleri tekra
 ---
 
 # Sprint 2
-Sprint Notları : Bu sprint proje değişikliğine gidilerek yeni proje kararı verildi. Yeni proje için ilk çalışmalar başlatıldı.
+- **Sprint Notları**: Bu sprint proje değişikliğine gidilerek yeni proje kararı verildi. Yeni proje için ilk çalışmalar başlatıldı.
 
-Sprint içinde tamamlanması gereken tahmini puan :130
+- **Sprint içinde tamamlanması tahmin edilen puan**: 130
 
-Puan tamamlama mantığı: Belirlediğimiz puanın görevlere eşit oranda dağıtılmasına karar verildi.
+- **Puan tamamlama mantığı**: Belirlediğimiz puanın görevlere eşit oranda dağıtılmasına karar verildi.
 
-Bakclog düzeni ve story seçimleri : Backlog görevleri önem niteliğine göre sıralanıp takım arkadaşlarına atanmıştır. Tahmin edilen puanı geçmeyecek şekilde düzenlenmiştir.
+- **Backlog düzeni ve Story seçimleri**: Backlog görevleri önem niteliğine göre sıralanıp takım arkadaşlarına atanmıştır. Tahmin edilen puanı geçmeyecek şekilde düzenlenmiştir.
 Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-Daily scrum :Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır.
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği pdf olarak Readme'de tarafımızdan paylaşılmaktadır. [Sprint 2 DailyScrum]
+(https://github.com/200202087/bootcamp95/blob/3254259db58c9367d24b18c25ae4c0a721686ca5/sprint2/daiilyscrum.pdf)
 
 
-Sprint board update:
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/200202087/bootcamp95/blob/3254259db58c9367d24b18c25ae4c0a721686ca5/sprint2/backlog1.png) 
+![Backlog 2](https://github.com/200202087/bootcamp95/blob/3254259db58c9367d24b18c25ae4c0a721686ca5/sprint2/backlog2.png) 
+![Backlog 3](https://github.com/200202087/bootcamp95/blob/3254259db58c9367d24b18c25ae4c0a721686ca5/sprint2/backlog3.png)
 
 
-Ürün Durumu :
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://github.com/200202087/bootcamp95/blob/3254259db58c9367d24b18c25ae4c0a721686ca5/sprint2/AnaSayfa.png)
+  ![Screenshot 2](https://github.com/200202087/bootcamp95/blob/3254259db58c9367d24b18c25ae4c0a721686ca5/sprint2/Sorular.png)
 
-Sprint Review: 
-Alınan kararlar: Projeye devam edecek takım arkadaşlarıyla beraber küçültmeye gidilmiştir. Proje değişikliğine karar verilip uygulama değiştirilmiştir.
+- **Sprint Review**: 
+Alınan kararlar: Bazı anlaşmazlıklar sonucu iki arkadaşımız aramızdan ayrılmış bulunmaktadır. Projeye devam edecek takım arkadaşlarıyla beraber küçültmeye gidilmiştir. Proje değişikliğine karar verilip uygulama değiştirilmiştir.
 
-Sprint Retrospective:
+- **Sprint Retrospective:**
 Haftalık toplantılar daha sık yapılacaktır.
 İş takibi daha sıkı takip edilecektir.
 
